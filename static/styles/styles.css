@@ -1,0 +1,15 @@
+#container {
+    width: 700px;
+    height: 500px;
+
+    position: relative;
+
+    border: 1px solid lightgray;
+
+}
+
+img {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+}
